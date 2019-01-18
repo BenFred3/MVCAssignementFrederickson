@@ -1,0 +1,6 @@
+B:\Ben\School\MVCAppFrederickson\MVCAppFrederickson.Shared\bin\Debug\MVCAppFrederickson.Shared.dll
+B:\Ben\School\MVCAppFrederickson\MVCAppFrederickson.Shared\bin\Debug\MVCAppFrederickson.Shared.pdb
+B:\Ben\School\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.csprojAssemblyReference.cache
+B:\Ben\School\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.csproj.CoreCompileInputs.cache
+B:\Ben\School\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.dll
+B:\Ben\School\MVCAppFrederickson\MVCAppFrederickson.Shared\obj\Debug\MVCAppFrederickson.Shared.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAppFrederickson", "MVCAppFrederickson\MVCAppFrederickson.csproj", "{36CCE3BD-5ECC-4E37-ABB6-5D57BB10C884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAppFrederickson.Shared", "MVCAppFrederickson.Shared\MVCAppFrederickson.Shared.csproj", "{BF5CF436-513B-48AF-BA6A-20061A4E8BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CCE3BD-5ECC-4E37-ABB6-5D57BB10C884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CCE3BD-5ECC-4E37-ABB6-5D57BB10C884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CCE3BD-5ECC-4E37-ABB6-5D57BB10C884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CCE3BD-5ECC-4E37-ABB6-5D57BB10C884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5CF436-513B-48AF-BA6A-20061A4E8BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5CF436-513B-48AF-BA6A-20061A4E8BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5CF436-513B-48AF-BA6A-20061A4E8BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5CF436-513B-48AF-BA6A-20061A4E8BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DF94CF7-A3A3-4FCE-8F09-3D0FA9AE284E}
+	EndGlobalSection
+EndGlobal
