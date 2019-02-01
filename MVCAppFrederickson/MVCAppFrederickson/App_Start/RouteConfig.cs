@@ -16,7 +16,7 @@ namespace MVCAppFrederickson
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Campus", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "DMACC", action = "Index", id = UrlParameter.Optional }
             );
         }
     }

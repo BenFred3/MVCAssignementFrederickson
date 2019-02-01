@@ -1,0 +1,65 @@
+﻿@model MVCAppFrederickson.Models.DMACCModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1> Student Information - </h1>
+
+    <div>
+        @Html.LabelFor(m => m.Students[0].FirstName)
+        @Html.DisplayFor(m => m.Students[0].FirstName)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[0].LastName)
+        @Html.DisplayFor(m => m.Students[0].LastName)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[0].Age)
+        @Html.DisplayFor(m => m.Students[0].Age)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[0].Major)
+        @Html.DisplayFor(m => m.Students[0].Major)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[0].StudentGender)
+        @Html.DisplayFor(m => m.Students[0].StudentGender)
+    </div>
+
+    <hr />
+
+    <div>
+        @Html.LabelFor(m => m.Students[1].FirstName)
+        @Html.DisplayFor(m => m.Students[1].FirstName)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[1].LastName)
+        @Html.DisplayFor(m => m.Students[1].LastName)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[1].Age)
+        @Html.DisplayFor(m => m.Students[1].Age)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[1].Major)
+        @Html.DisplayFor(m => m.Students[1].Major)
+    </div>
+    <br><br />
+    <div>
+        @Html.LabelFor(m => m.Students[1].StudentGender)
+        @Html.DisplayFor(m => m.Students[1].StudentGender)
+    </div>
+
+</body>
+</html>
